@@ -1,5 +1,5 @@
 # TOOL URL
-https://margaale.github.io/BroadlinkIRTools/dist/#/
+https://broadlinkirtools.leko.moe/
 
 I was publish full source code and change tool url. Please help me fix bug when HASS APi was change. 
 # Broadlink tools
